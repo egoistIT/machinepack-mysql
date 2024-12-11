@@ -23,7 +23,7 @@
     "debug": "2.6.9",
     "@sailshq/lodash": "^3.10.4",
     "machine": "^15.0.0",
-    "mysql": "git+https://git@github.com/egoistIT/mysql.git#master",
+    "mysql2": "^3.11.5",
     "waterline-sql-builder": "^2.0.0"
   },
   "devDependencies": {
